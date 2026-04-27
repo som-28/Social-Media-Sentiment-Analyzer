@@ -1,0 +1,128 @@
+[
+  {
+    "id": "7876160d-82d0-4bb0-814f-c628e36b6802",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T14:56:16.670586+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "82d8ffcd-6558-47bb-9e5a-51c068b5ef7b",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T14:57:38.756700+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "2de0e2e1-b351-416f-bd17-4b43aa0c7932",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T14:58:38.759424+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "cdc774df-124e-4eee-b340-d2189fbd56e6",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T14:59:38.762586+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "3c1589f8-eec8-4de6-b5db-9de0736db372",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:00:38.765997+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "42f46bdb-ef79-4244-b6af-fdd8c8d2bb82",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:01:38.768794+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "8f071cda-3a52-41f4-bf49-8a507c2a3eb1",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:02:38.771553+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "43305536-0f75-40a0-8397-8a79862a7af6",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:03:38.774180+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "f2bfbf79-e4ad-462d-bd61-18955268de58",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:04:38.778621+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "4f7d01f3-7ca1-41a4-b0eb-e8430dbf6b21",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:05:38.782041+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "a55b9f03-3976-4c58-a520-80eeda4b1b55",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:06:38.785423+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "48388f29-253d-4036-ba1d-a0d3a5173217",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:07:38.788507+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "d56e8224-0fa8-4d4a-8f3e-fdce62b04aa3",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:08:38.792071+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  },
+  {
+    "id": "e88f24c5-3974-4dba-8f7f-600107a30e1d",
+    "rule_id": "8812a2f2-be0f-4b22-92e3-d3f2b712db4f",
+    "rule_name": "Neg Spike",
+    "triggered_at": "2026-04-23T15:09:38.795842+00:00",
+    "negative_ratio": 0.5,
+    "window": 6,
+    "message": "Negative ratio 50.0% exceeded threshold 40.0%."
+  }
+]

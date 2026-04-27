@@ -1,0 +1,22 @@
+[
+  {
+    "id": "a3a2ce82-23d9-4f1b-9f78-b4c6a943e960",
+    "schedule_id": "5f27b2c1-9ee5-4e56-acd3-f4472dd84648",
+    "title": "Hourly Report",
+    "destination": "team@example.com",
+    "channel": "email",
+    "summary": "Dominant sentiment is positive. Positive 40.0%, Neutral 30.0%, Negative 30.0%.",
+    "status": "sent_simulated",
+    "delivered_at": "2026-04-23T14:53:59.712370+00:00"
+  },
+  {
+    "id": "8ceb3388-ac43-4add-a141-5c0cb395e957",
+    "schedule_id": "5f27b2c1-9ee5-4e56-acd3-f4472dd84648",
+    "title": "Hourly Report",
+    "destination": "team@example.com",
+    "channel": "email",
+    "summary": "Dominant sentiment is positive. Positive 40.0%, Neutral 30.0%, Negative 30.0%.",
+    "status": "sent_simulated",
+    "delivered_at": "2026-04-24T03:12:51.815980+00:00"
+  }
+]

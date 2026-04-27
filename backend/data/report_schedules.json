@@ -1,0 +1,24 @@
+{
+  "5f27b2c1-9ee5-4e56-acd3-f4472dd84648": {
+    "id": "5f27b2c1-9ee5-4e56-acd3-f4472dd84648",
+    "title": "Hourly Report",
+    "destination": "team@example.com",
+    "channel": "email",
+    "interval_minutes": 60,
+    "distribution": {
+      "positive": 4,
+      "neutral": 3,
+      "negative": 3
+    },
+    "topics": [
+      {
+        "topic": "Customer Support",
+        "count": 5
+      }
+    ],
+    "enabled": true,
+    "created_at": "2026-04-23T14:53:53.220937+00:00",
+    "next_run_at": "2026-04-24T04:12:51.812930+00:00",
+    "last_run_at": "2026-04-24T03:12:51.812930+00:00"
+  }
+}

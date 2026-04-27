@@ -1,0 +1,8 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+pandas==2.2.2
+scikit-learn==1.5.1
+emoji==2.12.1
+numpy==1.26.4
+reportlab==4.2.2
+requests==2.32.3
