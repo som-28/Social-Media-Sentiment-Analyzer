@@ -1,7 +1,4 @@
-# Social Media Sentiment Analyzer (Full Stack)
-
-A complete full-stack starter project inspired by your synopsis.
-
+# Social Media Sentiment Analyzer 
 ## Stack
 
 - Backend: Flask + scikit-learn
@@ -75,7 +72,3 @@ form-data:
 
 Returns status of backend service.
 
-## Notes
-
-- The DistilBERT path currently uses an ensemble proxy so the app works immediately without heavy model downloads.
-- You can later replace it with a real fine-tuned transformer model in backend/services/sentiment.py.
